@@ -12,6 +12,7 @@ package in a subdirectory, e.g. "C:\Program Files\GNAT". If you want to use
 the toolchain in SweetAda, specify this directory in the configuration.in
 file.
 
-[https://www.sweetada.org/packages/riscv32-elf.zip]https://www.sweetada.org/packages/riscv32-elf.zip
-[https://www.sweetada.org/packages/riscv64-elf.zip]https://www.sweetada.org/packages/riscv64-elf.zip
+[https://www.sweetada.org/packages/riscv32-elf.zip](https://www.sweetada.org/packages/riscv32-elf.zip)
+
+[https://www.sweetada.org/packages/riscv64-elf.zip](https://www.sweetada.org/packages/riscv64-elf.zip)
 
