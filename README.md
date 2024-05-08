@@ -20,3 +20,5 @@ Binutils-2.42 / GCC-13.2.0 / GDB-14.2
 
 [https://www.sweetada.org/packages/riscv64-elf.zip](https://www.sweetada.org/packages/riscv64-elf.zip)
 
+[https://www.sweetada.org/packages/x86_64-elf.zip](https://www.sweetada.org/packages/x86_64-elf.zip)
+
