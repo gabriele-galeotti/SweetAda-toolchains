@@ -14,6 +14,8 @@ file.
 
 Binutils-2.42 / GCC-13.2.0 / GDB-14.2
 
+[https://www.sweetada.org/packages/arm-eabi.zip](https://www.sweetada.org/packages/aarch64-elf.zip)
+
 [https://www.sweetada.org/packages/arm-eabi.zip](https://www.sweetada.org/packages/arm-eabi.zip)
 
 [https://www.sweetada.org/packages/i686-elf.zip](https://www.sweetada.org/packages/i686-elf.zip)
